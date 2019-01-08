@@ -1,0 +1,22 @@
+body{
+    background-color:#b175b1;
+}
+.tbd{
+    border-top: 3px solid #7a356c;
+	border-bottom: 3px solid #7a356c;
+    width: 25%;
+    margin: auto;
+    text-align:center;
+    align-content: center;
+    margin-top:20%;
+    margin-bottom:20%;
+}
+h1{
+    font-family: 'ZCOOL XiaoWei', serif;
+    color: #f1e6e0;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    color:#efebe8;
+}
